@@ -1,0 +1,14 @@
+.image {
+    height: 80px;
+    width: 130px;
+    border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+    cursor: pointer;
+  }
+  
+  .image:hover {
+    height: 100px;
+    width: 150px;
+    border-radius: 30px;
+  }
+  
